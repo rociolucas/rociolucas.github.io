@@ -1,0 +1,60 @@
+.titulo-seccion {
+    color:rgb(105, 227, 231);
+    font-style: oblique;
+    text-align: center;
+}
+
+img {
+    float: right;
+    height: 15em;
+}
+
+img.principal {
+    border: 2em double pink
+}
+
+div#encabezado {
+    background-color: rgb(245, 255, 254);
+    padding: 1em;
+}
+
+div#sobre-mi {
+    background-color: rgb(255, 253, 223);
+    color: rgb(235, 197, 94);
+    font-family: 'Courier New', Courier, monospace;
+    padding: 1em;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+span.black {
+    font-weight: bold;
+}
+
+ul {
+    border: 3px double brown;
+    width: fit-content;
+    padding: 3rem;
+}
+
+h2 {
+    font-style: italic;
+    color: palevioletred;
+
+}
+
+table {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 100%;
+    border-collapse: collapse;
+    border: palevioletred 5px dotted;
+    text-align: left;
+}
+
+tr {
+    border-bottom: 1px solid gray;
+}
+
+tr:hover {
+    background-color: pink;
+}
+
