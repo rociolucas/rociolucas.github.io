@@ -58,3 +58,13 @@ tr:hover {
     background-color: pink;
 }
 
+button {
+    padding: 5px; 
+    color: white;
+    background-color: olivedrab; 
+    border: none;
+}
+
+button:active {
+    background-color: purple;
+}
