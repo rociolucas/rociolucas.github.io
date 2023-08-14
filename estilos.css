@@ -1,7 +1,15 @@
+  @import url('https://fonts.googleapis.com/css2?family=Caprasimo&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+
 .titulo-seccion {
     color:rgb(105, 227, 231);
     font-style: oblique;
     text-align: center;
+}
+
+h1 {
+    font-family: 'Caprasimo', cursive;
+    font-weight: lighter;
 }
 
 img {
@@ -13,9 +21,10 @@ img.principal {
     border: 2em double pink
 }
 
-div#encabezado {
+p#parrafoConFrase {
     background-color: rgb(245, 255, 254);
     padding: 1em;
+    font-family: 'Special Elite', cursive;
 }
 
 div#sobre-mi {
